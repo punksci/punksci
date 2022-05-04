@@ -1,7 +1,8 @@
 - Hi, I’m @punksci
 - I'm a science teacher turned computer science teacher
-- I first started learning HTML/CSS/JavaScript in 2016
-- I have nothing to throw on my repository at this moment
-- I plan to come back to this and build at least a respectable repository <br> you know - to show my skills and such.
+- Started learning HTML/CSS/JavaScript in 2016
+- Currently, only my portfolio website is in a repository 
+- I plan to 'wrap-up' some of my projects and set them in repositories this summer
+- For now, I just have a sad repository list.
 
 - hope to find the time to spend with GitHub this summer ('22)
